@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/de.innot.avreclipse.toolchain.winavr.base.1847837975/AVRTARGETFCPU/delimiter=\:
+environment/project/de.innot.avreclipse.toolchain.winavr.base.1847837975/AVRTARGETFCPU/operation=replace
+environment/project/de.innot.avreclipse.toolchain.winavr.base.1847837975/AVRTARGETFCPU/value=16000000
+environment/project/de.innot.avreclipse.toolchain.winavr.base.1847837975/AVRTARGETMCU/delimiter=\:
+environment/project/de.innot.avreclipse.toolchain.winavr.base.1847837975/AVRTARGETMCU/operation=replace
+environment/project/de.innot.avreclipse.toolchain.winavr.base.1847837975/AVRTARGETMCU/value=atmega32u2
+environment/project/de.innot.avreclipse.toolchain.winavr.base.1847837975/append=true
+environment/project/de.innot.avreclipse.toolchain.winavr.base.1847837975/appendContributed=true
